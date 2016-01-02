@@ -25,8 +25,7 @@ var styles = StyleSheet.create({
     color: 'white'
   },
   image: {
-    height: 125,
-    width: 125,
+    height: 125, width: 125,
     borderRadius: 65,
     marginTop: 10,
     alignSelf: 'center'
